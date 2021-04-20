@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ..python.
 - 🤔 I’m looking for help with ...django framework
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...linkedin: https://www.linkedin.com/in/kavyashree-upparakakula-7b47b71b6/
+- 📫 How to reach me: ...linkedin: https://www.linkedin.com/in/kavyashree2001
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...just smile.
 
