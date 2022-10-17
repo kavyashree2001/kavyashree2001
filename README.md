@@ -1,5 +1,5 @@
 Hi there 👋,
-I'm kavyashree upparakakula, a junior pursuing batchelors in I.T Engineering!
+I'm kavyashree upparakakula, a senior pursuing batchelors in I.T Engineering!
 
 
 
